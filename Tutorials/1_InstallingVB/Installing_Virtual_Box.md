@@ -15,3 +15,7 @@ Complete the Ubuntu install when you boot up the machine!
 
 ## TL;DR
 https://www.makeuseof.com/install-ubuntu-virtualbox/  
+
+## Troubleshooting 
+### Screen not changing size 
+You need to mount the guest additions disk to make the ubuntu alot more userfriendly. Check out these instructions: https://www.tecmint.com/install-virtualbox-guest-additions-in-ubuntu/
